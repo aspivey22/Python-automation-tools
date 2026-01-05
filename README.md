@@ -132,7 +132,7 @@ Planned additions:
 **Ar'Jah'Naye Spivey**
 - LinkedIn: [linkedin.com/in/aspivey22](https://linkedin.com/in/aspivey22)
 - Email: sarjahnaye@gmail.com
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/aspivey22)
+- GitHub: [github.com/aspivey22](https://github.com/aspivey22)
 
 ---
 
